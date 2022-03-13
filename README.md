@@ -100,3 +100,4 @@ The dataset is an imbalance. We can get an idea of an imbalance from the followi
 ![Distribution of Response Category](img/distribution.png)
 
 For imbalanced classes with fewer samples, the model will not generalize well. For various categories, we should focus on recall as all the categories has the same precision.
+Rodrigo Polverari Statspy-ml
